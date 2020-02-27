@@ -8,12 +8,12 @@
 2. Data - assumption
 3. Data - structure
 4. Technology used
-5. 1st part: thorough analysis for 7/23/2018 (Monday)
+5. First part: thorough analysis for 7/23/2018 (Monday)
 - verification of the number and length of delays for the analyzed tram lines
 - distribution of delays throughout the day
 - susceptibility of stops and tram lines to delays
 - simple model presenting the general sense of using machine learning, on which delays can be predicted
-6. 2nd part: comparative analysis for 7/23/2018 (Monday) - 7/31/2018 (Tuesday) excluding weekend
+6. Second part: comparative analysis for 7/23/2018 (Monday) - 7/31/2018 (Tuesday) excluding weekend
 - verification of the number and length of delays for the analyzed tram lines
 - distribution of delays throughout the day
 - susceptibility of stops and tram lines to delays
