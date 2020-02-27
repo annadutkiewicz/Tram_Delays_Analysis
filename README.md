@@ -33,9 +33,11 @@ Books:
 - Albon, Chris. 2018. Uczenie maszynowe w Pythonie. Receptury. Gliwice: Wydawnictwo Helion.
 - Geron, Aurelien. 2018. Uczenie maszynowe z użyciem Scikit-Learn i TensorFlow. Gliwice: Wydawnictwo Helion.
 - McKinney, Wes. 2018. Python w analizie danych. Gliwice: Wydawnictwo Helion.
+
 Online courses:
 - Brunner, Rene. Python fuer Data Science, Maschinelles Lernen & Visualization. Udemy.com
-- Vladimir Alekseichenko, Korona Wyzwań Uczenia Maszynowego, Data Workshop, https://dataworkshop.eu/challenge
+- **Vladimir Alekseichenko, Korona Wyzwań Uczenia Maszynowego, Data Workshop, https://dataworkshop.eu/challenge**
+
 Online sources:
 - https://aczepielik.github.io/post/kraktram/#regresja-kwantylowa
 - https://github.com/aczepielik/KRKtram/tree/master/reports
