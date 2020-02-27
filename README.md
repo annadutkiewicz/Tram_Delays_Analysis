@@ -29,15 +29,14 @@
 6. To achieve better results, it is worth analyzing the impact of the vehicle number (older vs. newer trains) and the dependence of the delay at a given stop taking into account the direction of travel (tram going from / to the loop)
 
 ### Acknowledgements
-This implementation was inspired by Kirill Eremenko, Hadelin de Ponteves, Dr. Ryan Ahmed, Ph.D., MBA, SuperDataScience Team, Rony Sulca [Machine Learning Practical Udemy course](https://www.udemy.com/course/machine-learning-practical/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DataScience_v.PROF_la.EN_cc.ROW_ti.5336&utm_content=deal4584&utm_term=_._ag_85469003954_._ad_395279056268_._kw__._de_c_._dm__._pl__._ti_dsa-774930036449_._li_1011367_._pd__._&matchtype=b&gclid=CjwKCAiAvonyBRB7EiwAadauqdGsq1pYwJXPHmZpdR12WWHTeI31ZGNAR7wJqhrnln_dI452sQCbCBoCnvwQAvD_BwE)
-Books
-1. Albon, Chris. 2018. Uczenie maszynowe w Pythonie. Receptury. Gliwice: Wydawnictwo Helion.
-2. Geron, Aurelien. 2018. Uczenie maszynowe z użyciem Scikit-Learn i TensorFlow. Gliwice: Wydawnictwo Helion.
-3. McKinney, Wes. 2018. Python w analizie danych. Gliwice: Wydawnictwo Helion.
-Online courses
-4. Brunner, Rene. Python fuer Data Science, Maschinelles Lernen & Visualization. Udemy.com
-5. Vladimir Alekseichenko, Korona Wyzwań Uczenia Maszynowego, Data Workshop, https://dataworkshop.eu/challenge
-Online sources
-6. https://aczepielik.github.io/post/kraktram/#regresja-kwantylowa
-7. https://github.com/aczepielik/KRKtram/tree/master/reports
-8. https://mateuszgrzyb.pl/3-najlepsze-sciagawki-z-bibliotek-python/
+Books:
+- Albon, Chris. 2018. Uczenie maszynowe w Pythonie. Receptury. Gliwice: Wydawnictwo Helion.
+- Geron, Aurelien. 2018. Uczenie maszynowe z użyciem Scikit-Learn i TensorFlow. Gliwice: Wydawnictwo Helion.
+- McKinney, Wes. 2018. Python w analizie danych. Gliwice: Wydawnictwo Helion.
+Online courses:
+- Brunner, Rene. Python fuer Data Science, Maschinelles Lernen & Visualization. Udemy.com
+- Vladimir Alekseichenko, Korona Wyzwań Uczenia Maszynowego, Data Workshop, https://dataworkshop.eu/challenge
+Online sources:
+- https://aczepielik.github.io/post/kraktram/#regresja-kwantylowa
+- https://github.com/aczepielik/KRKtram/tree/master/reports
+- https://mateuszgrzyb.pl/3-najlepsze-sciagawki-z-bibliotek-python/
