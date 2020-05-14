@@ -1,7 +1,7 @@
-## Tram_Delays_in_Krakow
+## Tram Delays Analysis
 ### Description
 
-**The aim is to investigate tram delays in Krakow**
+**The aim is to investigate tram delays in Krakow, Poland**
 
 ### Workflow
 1. Introduction
