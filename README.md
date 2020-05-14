@@ -3,6 +3,19 @@
 
 **The aim is to investigate tram delays in Krakow, Poland**
 
+### Files
+
+The file Tram_Delays_Analysis.pdf includes analysis of tram delays. Steps of analysis that are included in the document are described in "Workflow" below.
+
+The following files include analysis of tram delays using Python programming language for specific days between July 23, 2018 - July 31, 2018:
+- Analysis_23-07-2018.ipynb
+- Analysis_24-07-2018.ipynb
+- Analysis_25-07-2018.ipynb
+- Analysis_26-07-2018.ipynb
+- Analysis_27-07-2018.ipynb
+- Analysis_30-07-2018.ipynb
+- Analysis_31-07-2018.ipynb
+
 ### Workflow
 1. Introduction
 2. Data - assumption
