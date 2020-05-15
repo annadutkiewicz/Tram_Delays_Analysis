@@ -3,6 +3,19 @@
 
 **The aim is to investigate tram delays in Krakow, Poland**
 
+### Files
+
+The file ```Tram_Delays_Analysis.pdf``` includes analysis of tram delays. Steps of analysis that are included in the document are described in "Workflow" below.
+
+The following files include analysis of tram delays using Python programming language for specific days between July 23, 2018 - July 31, 2018:
+- ```Analysis_23-07-2018.ipynb```
+- ```Analysis_24-07-2018.ipynb```
+- ```Analysis_25-07-2018.ipynb```
+- ```Analysis_26-07-2018.ipynb```
+- ```Analysis_27-07-2018.ipynb```
+- ```Analysis_30-07-2018.ipynb```
+- ```Analysis_31-07-2018.ipynb```
+
 ### Workflow
 1. Introduction
 2. Data - assumption
@@ -27,6 +40,9 @@
 4. The smallest delays can be noted at stops close to the tram loop, when the tram route runs through the city center, has a separate tram lane and is relatively short
 5. For some of the days analyzed, it is difficult to notice the tendency for the biggest delays to appear during peak hours (morning and afternoon), perhaps due to holidays
 6. To achieve better results, it is worth analyzing the impact of the vehicle number (older vs. newer trains) and the dependence of the delay at a given stop taking into account the direction of travel (tram going from / to the loop)
+
+### Article
+Medium article can be found [here](https://medium.com/@anna.natalia.dutkiewicz/public-transport-always-late-or-exaggeration-39490d90c6f4)
 
 ### Acknowledgements
 Books:
