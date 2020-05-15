@@ -41,6 +41,9 @@ The following files include analysis of tram delays using Python programming lan
 5. For some of the days analyzed, it is difficult to notice the tendency for the biggest delays to appear during peak hours (morning and afternoon), perhaps due to holidays
 6. To achieve better results, it is worth analyzing the impact of the vehicle number (older vs. newer trains) and the dependence of the delay at a given stop taking into account the direction of travel (tram going from / to the loop)
 
+### Article
+Medium article can be found [here](https://medium.com/@anna.natalia.dutkiewicz/public-transport-always-late-or-exaggeration-39490d90c6f4)
+
 ### Acknowledgements
 Books:
 - Albon, Chris. 2018. Uczenie maszynowe w Pythonie. Receptury. Gliwice: Wydawnictwo Helion.
